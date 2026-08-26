@@ -2,15 +2,23 @@ class Program
 {
     static void Main(string[] args)
     {
-      Console.WriteLine("Enter Product ID : ");
-      int productId = Convert.ToInt16(Console.ReadLine());
-        try
+        //   Console.WriteLine("Enter Product ID : ");
+        //   int productId = Convert.ToInt16(Console.ReadLine());
+        //     try
+        //     {
+        //         FindProduct(productId);
+        //     }
+        //     catch(ProductNotFoundException ex)
+        //     {
+        //         Console.WriteLine(ex.Message);
+        //     }
+
+
+        int[] numbers = { 10, 20, 30, 40, 50 };
+
+        foreach (int number in numbers)
         {
-            FindProduct(productId);
-        }
-        catch(ProductNotFoundException ex)
-        {
-            Console.WriteLine(ex.Message);
+            Console.WriteLine(number);
         }
 
     }
@@ -35,3 +43,7 @@ class Program
         }
     }
 }
+
+
+
+
