@@ -1,0 +1,7 @@
+.git_code.md
+
+bin/
+obj/
+.vs/
+*.user
+*.suo
