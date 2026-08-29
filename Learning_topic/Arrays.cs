@@ -186,21 +186,37 @@ using System.Security.AccessControl;
 
 
 
-int[] numbers = { 50, 20, 70, 10, 40 };
+// int[] numbers = { 50, 20, 70, 10, 40 };
 
-int first = 0;
-int last = numbers.Length - 1;
+// int first = 0;
+// int last = numbers.Length - 1;
 
-while (first < last)
-{
-    int temp = numbers[first];
-    numbers[first] = numbers[last];
-    numbers[last] = temp;
-    first++;
-    last--;
-}
+// while (first < last)
+// {
+//     int temp = numbers[first];
+//     numbers[first] = numbers[last];
+//     numbers[last] = temp;
+//     first++;
+//     last--;
+// }
 
-foreach (int number in numbers)
-{
-    Console.WriteLine(number);
-}
+// foreach (int number in numbers)
+// {
+//     Console.WriteLine(number);
+// }
+
+
+// int[] numbers = { 25, 10, 40, 5, 40 };
+
+// int target = 40;
+// int count = 0;
+
+// for (int i = 0; i < numbers.Length; i++)
+// {
+//     if (numbers[i] == target)
+//     {
+//         count = count + 1;
+//     }
+
+// }
+// Console.WriteLine(count);

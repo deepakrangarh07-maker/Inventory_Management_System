@@ -2,7 +2,6 @@ C:\Users\deepa\OneDrive\Desktop\git code\Inventory_Management_Systems\src\LabInv
 C:\Users\deepa\OneDrive\Desktop\git code\Inventory_Management_Systems\src\LabInventorySystem\obj\Debug\net10.0\Inventory_Management_Systems.AssemblyInfoInputs.cache
 C:\Users\deepa\OneDrive\Desktop\git code\Inventory_Management_Systems\src\LabInventorySystem\obj\Debug\net10.0\Inventory_Management_Systems.AssemblyInfo.cs
 C:\Users\deepa\OneDrive\Desktop\git code\Inventory_Management_Systems\src\LabInventorySystem\obj\Debug\net10.0\Inventory_Management_Systems.csproj.CoreCompileInputs.cache
-C:\Users\deepa\OneDrive\Desktop\git code\Inventory_Management_Systems\src\LabInventorySystem\obj\Debug\net10.0\Inventory_Management_Systems.sourcelink.json
 C:\Users\deepa\OneDrive\Desktop\git code\Inventory_Management_Systems\src\LabInventorySystem\bin\Debug\net10.0\Inventory_Management_Systems.exe
 C:\Users\deepa\OneDrive\Desktop\git code\Inventory_Management_Systems\src\LabInventorySystem\bin\Debug\net10.0\Inventory_Management_Systems.deps.json
 C:\Users\deepa\OneDrive\Desktop\git code\Inventory_Management_Systems\src\LabInventorySystem\bin\Debug\net10.0\Inventory_Management_Systems.runtimeconfig.json
